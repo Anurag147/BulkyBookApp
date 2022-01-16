@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0509ead1-b4c2-4c32-a86b-94ef4f364fca": {
+      "ProjectGuid": "0509ead1-b4c2-4c32-a86b-94ef4f364fca",
+      "DisplayName": "BulkyBook",
+      "ColorIndex": 0
+    },
+    "fbd7320f-4e08-43b9-9e02-6a3bdafc5b26": {
+      "ProjectGuid": "fbd7320f-4e08-43b9-9e02-6a3bdafc5b26",
+      "DisplayName": "BulkyBook.DataAccess",
+      "ColorIndex": 1
+    },
+    "63e5bcd6-76ad-4029-880c-9edc748281b0": {
+      "ProjectGuid": "63e5bcd6-76ad-4029-880c-9edc748281b0",
+      "DisplayName": "BulkyBook.Models",
+      "ColorIndex": 2
+    },
+    "b786a1e0-91a9-487a-a70f-3c309fab240b": {
+      "ProjectGuid": "b786a1e0-91a9-487a-a70f-3c309fab240b",
+      "DisplayName": "BulkyBook.Utility",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
