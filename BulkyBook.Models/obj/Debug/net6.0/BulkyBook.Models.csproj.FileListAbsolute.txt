@@ -9,3 +9,4 @@ D:\2022\Study\Dot-Net-Core\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook
 D:\2022\Study\Dot-Net-Core\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
 D:\2022\Study\Dot-Net-Core\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
 D:\2022\Study\Dot-Net-Core\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+D:\2022\Study\Dot-Net-Core\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache

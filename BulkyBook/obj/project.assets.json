@@ -3026,7 +3026,8 @@
         "dependencies": {
           "BulkyBook.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1"
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
+          "System.Linq.Expressions": "4.3.0"
         },
         "compile": {
           "bin/placeholder/BulkyBook.DataAccess.dll": {}
